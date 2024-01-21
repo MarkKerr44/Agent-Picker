@@ -15,8 +15,8 @@ FileInstall, disable.wav, disable.wav
 
 ;----  DEFAULT FILES
 ;
-defaultlist = Breach		:0`nBrimstone	:0`nCypher		:0`nJett		:0`nOmen		:0`nPhoenix		:0`nRaze		:0`nReyna		:0`nSage		:0`nSova		:0`nViper		:0`nAstra		:0`nKAY/O		:0`nKilljoy		:0`nSkye		:0`nYoru		:0`n
-defaultlisty = Breach		:0`nBrimstone	:0`nCypher		:0`nJett		:0`nOmen		:0`nPhoenix		:0`nRaze		:0`nReyna		:0`nSage		:0`nSova		:0`nViper		:0`nAstra		:0`nKAY/O		:0`nKilljoy		:0`nSkye		:0`nYoru		:0`n
+defaultlist = Breach		:0`nBrimstone	:0`nCypher		:0`nJett		:0`nOmen		:0`nPhoenix		:0`nRaze		:0`nReyna		:0`nSage		:0`nSova		:0`nViper		:0`nAstra		:0`nKAY/O		:0`nKilljoy		:0`nSkye		:0`nYoru		:0`nIso		:0`nNeon		:0`nFade		:0`nChamber		:0`nDeadlock		:0`nGekko		:0`nHarbor		:0`n                                            
+defaultlisty = Breach		:0`nBrimstone	:0`nCypher		:0`nJett		:0`nOmen		:0`nPhoenix		:0`nRaze		:0`nReyna		:0`nSage		:0`nSova		:0`nViper		:0`nAstra		:0`nKAY/O		:0`nKilljoy		:0`nSkye		:0`nYoru		:0`nIso		:0`nNeon		:0`nFade		:0`nChamber		:0`nDeadlock		:0`nGekko		:0`nHarbor		:0`n
 ifnotexist,[X]Agent List.txt
     {
     FileAppend, %defaultlist%, %A_ScriptDir%\[X]Agent List.txt

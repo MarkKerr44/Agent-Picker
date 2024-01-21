@@ -14,3 +14,10 @@ KAY/O		:0
 Killjoy		:0
 Skye		:0
 Yoru		:0
+Iso         :0
+Neon        :0
+Fade        :0
+Chamber     :0
+Deadlock    :0
+Gekko       :0
+Harbor      :0
